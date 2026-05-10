@@ -1,6 +1,6 @@
 # E-Commerce-Sales-Analysis
 This project is a complete end-to-end *E-Commerce Sales Analysis Dashboard* developed in *Microsoft Power BI* to transform raw transactional sales data into meaningful business intelligence and strategic insights.
-# 📊 E-Commerce Sales Analysis Dashboard | Power BI Project
+#  E-Commerce Sales Analysis Dashboard | Power BI Project
 
 <p align="center">
   <b>An Interactive Business Intelligence Solution for Revenue, Profitability, Regional Sales, Customer Segmentation, and Operational Performance Analysis</b>
@@ -8,7 +8,7 @@ This project is a complete end-to-end *E-Commerce Sales Analysis Dashboard* deve
 
 ---
 
-# 🚀 Project Overview
+#  Project Overview
 
 This project is a complete end-to-end *E-Commerce Sales Analysis Dashboard* developed using *Microsoft Power BI* to transform raw transactional sales data into actionable business intelligence insights.
 
@@ -28,9 +28,7 @@ The project combines *advanced data modeling, **custom DAX calculations, **time 
 
 This dashboard allows decision-makers to quickly identify trends, evaluate business performance, monitor KPIs, and explore operational insights through interactive filtering and drill-down analysis.
 
----
-
-# 🎯 Project Objectives
+#  Project Objectives
 
 The main objective of this project was to build a professional business intelligence dashboard capable of:
 
@@ -45,7 +43,7 @@ The main objective of this project was to build a professional business intellig
 
 ---
 
-# 🛠️ Tools & Technologies Used
+# Tools & Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -58,7 +56,7 @@ The main objective of this project was to build a professional business intellig
 
 ---
 
-# 🧹 Data Preparation & Transformation
+#  Data Preparation & Transformation
 
 Before building the dashboard, the dataset was cleaned and transformed using *Power Query*.
 
@@ -76,13 +74,13 @@ The transformation process ensured better dashboard efficiency and cleaner repor
 
 ---
 
-# 🗂️ Data Modeling & Schema Design
+#  Data Modeling & Schema Design
 
 A professional business intelligence data model was designed to improve analytical performance and maintain clean relationships between datasets.
 
 ---
 
-# ⭐ Star Schema Implementation
+#  Star Schema Implementation
 
 A *Star Schema* structure was implemented to create efficient relationships between the central fact table and supporting dimension tables.
 
@@ -102,7 +100,7 @@ A *Star Schema* structure was implemented to create efficient relationships betw
 
 ---
 
-# ❄️ Snowflake Schema Implementation
+#  Snowflake Schema Implementation
 
 A *Snowflake Schema* approach was used for product hierarchy normalization.
 
@@ -119,7 +117,7 @@ A *Snowflake Schema* approach was used for product hierarchy normalization.
 
 ---
 
-# 📈 DAX Measures & KPI Development
+#  DAX Measures & KPI Development
 
 Custom DAX measures were created to calculate financial metrics, operational KPIs, profitability analysis, and return analysis.
 
@@ -127,7 +125,7 @@ The dashboard includes several calculated measures that dynamically respond to f
 
 ---
 
-# 📊 KPI Measures Created
+#  KPI Measures Created
 
 | KPI | Description |
 |---|---|
@@ -144,7 +142,7 @@ The dashboard includes several calculated measures that dynamically respond to f
 
 ---
 
-# ⏳ Time Intelligence Functions
+#  Time Intelligence Functions
 
 Advanced Time Intelligence calculations were implemented using the *Dim Date Table*.
 
@@ -162,13 +160,13 @@ These calculations help analyze how business performance changes over time.
 
 ---
 
-# 🎨 Dashboard Pages & Analysis
+#  Dashboard Pages & Analysis
 
 The dashboard contains multiple analytical pages with interactive navigation and filtering capabilities.
 
 ---
 
-# 🏠 Homepage
+#  Homepage
 
 The homepage acts as the main navigation interface for the entire dashboard.
 
@@ -187,7 +185,7 @@ The homepage acts as the main navigation interface for the entire dashboard.
 
 ---
 
-# 📊 Executive Dashboard Analysis
+#  Executive Dashboard Analysis
 
 The Executive Dashboard provides a high-level overview of business performance and operational KPIs.
 
@@ -205,7 +203,7 @@ The Executive Dashboard provides a high-level overview of business performance a
 
 ## Visualizations Used
 
-### 🔵 Donut Charts
+###  Donut Charts
 
 #### Shipping Mode Analysis
 Analyzes revenue contribution by shipping methods:
@@ -223,7 +221,7 @@ Analyzes order distribution by customer type:
 
 ---
 
-### 📉 Profit by Continent Analysis
+###  Profit by Continent Analysis
 
 A column chart was used to analyze profitability across continents.
 
@@ -240,7 +238,7 @@ This helps identify which regions contribute the most profit to the business.
 
 ---
 
-### 📋 Product Sub-Category Summary Table
+###  Product Sub-Category Summary Table
 
 A detailed summary table was created to analyze:
 
@@ -257,7 +255,7 @@ This helps identify high-performing and low-performing product groups.
 
 ---
 
-### 📅 Interactive Date Slicer
+###  Interactive Date Slicer
 
 Dynamic date filtering was implemented to allow flexible analysis across different time periods.
 
@@ -265,7 +263,7 @@ Users can interactively explore business performance over custom date ranges.
 
 ---
 
-# 🌍 Regional Order Dashboard
+#  Regional Order Dashboard
 
 The Regional Order Dashboard focuses on geographic and regional sales analysis.
 
@@ -273,11 +271,11 @@ This page helps analyze where orders and revenue are generated globally.
 
 ---
 
-# 📌 Regional Insights Included
+#  Regional Insights Included
 
 ---
 
-## 🏙️ Top 5 Cities by Orders
+##  Top 5 Cities by Orders
 
 A bar chart was created to analyze cities generating the highest number of orders.
 
@@ -292,7 +290,7 @@ This helps identify strong-performing urban markets.
 
 ---
 
-## 🌎 Revenue by Country Map
+##  Revenue by Country Map
 
 A geographic map visualization was implemented to display global revenue distribution.
 
@@ -303,7 +301,7 @@ The map helps analyze:
 
 ---
 
-## 🔄 Order Priority Distribution
+##  Order Priority Distribution
 
 A donut chart was used to analyze order priorities.
 
@@ -317,7 +315,7 @@ This helps understand operational order management patterns.
 
 ---
 
-## 🌐 Continent Slicer
+##  Continent Slicer
 
 Interactive continent-level filtering was implemented.
 
@@ -333,7 +331,7 @@ This enables region-specific analysis.
 
 ---
 
-# 💰 Sales Dashboard Analysis
+#  Sales Dashboard Analysis
 
 The Sales Dashboard focuses on detailed financial and profitability analysis.
 
@@ -341,7 +339,7 @@ This page helps evaluate operational efficiency and revenue trends.
 
 ---
 
-# 📊 Financial KPI Cards
+#  Financial KPI Cards
 
 The dashboard includes several financial performance indicators:
 
@@ -357,7 +355,7 @@ These KPIs provide a complete overview of business profitability.
 
 ---
 
-# 📈 Revenue Trend Analysis
+# Revenue Trend Analysis
 
 An area chart was created to analyze revenue movement over time.
 
@@ -371,7 +369,7 @@ This helps monitor long-term business performance.
 
 ---
 
-# 📋 Monthly KPI Summary Table
+#  Monthly KPI Summary Table
 
 A detailed monthly financial analysis table was created containing:
 
@@ -387,7 +385,7 @@ This enables detailed month-by-month performance tracking.
 
 ---
 
-# 🛍️ Product Name Slicer
+#  Product Name Slicer
 
 Interactive product-level filtering was implemented using a product slicer.
 
@@ -400,25 +398,25 @@ This improves drill-down analysis capabilities.
 
 ---
 
-# ⚡ Interactive Features Implemented
+#  Interactive Features Implemented
 
 The dashboard contains multiple interactive business intelligence features.
 
 ## Features Included
 
-✅ Interactive Slicers  
-✅ Cross-Filtering  
-✅ Multi-Page Navigation  
-✅ Dynamic KPI Updates  
-✅ Geographic Drill-Down  
-✅ Date-Based Filtering  
-✅ Product-Level Analysis  
-✅ Region-Based Analysis  
-✅ Time-Series Exploration  
+ Interactive Slicers  
+ Cross-Filtering  
+ Multi-Page Navigation  
+ Dynamic KPI Updates  
+ Geographic Drill-Down  
+ Date-Based Filtering  
+ Product-Level Analysis  
+ Region-Based Analysis  
+ Time-Series Exploration  
 
 ---
 
-# 🧠 Business Intelligence Value
+#  Business Intelligence Value
 
 This project demonstrates how business intelligence tools can convert raw transactional data into meaningful insights.
 
@@ -432,11 +430,11 @@ The dashboard supports:
 
 ---
 
-# 📚 Skills Demonstrated
+#  Skills Demonstrated
 
 ---
 
-# 📊 Power BI Skills
+#  Power BI Skills
 
 - Data Modeling
 - Dashboard Design
@@ -449,7 +447,7 @@ The dashboard supports:
 
 ---
 
-# 📈 Business Analytics Skills
+#  Business Analytics Skills
 
 - Revenue Analysis
 - Profitability Analysis
@@ -462,38 +460,38 @@ The dashboard supports:
 
 ---
 
-# 🔥 Project Highlights
+#  Project Highlights
 
-✅ Professional Multi-Page Dashboard  
-✅ Advanced KPI Reporting  
-✅ Star Schema Data Model  
-✅ Snowflake Schema Implementation  
-✅ Time Intelligence Calculations  
-✅ Interactive Filtering System  
-✅ Geographic Revenue Analysis  
-✅ Customer Segment Visualization  
-✅ Product Sub-Category Analytics  
-✅ Profitability & Return Analysis  
+ Professional Multi-Page Dashboard  
+ Advanced KPI Reporting  
+ Star Schema Data Model  
+ Snowflake Schema Implementation  
+ Time Intelligence Calculations  
+ Interactive Filtering System  
+ Geographic Revenue Analysis  
+ Customer Segment Visualization  
+ Product Sub-Category Analytics  
+ Profitability & Return Analysis  
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
-## 🏠 Homepage
+##  Homepage
 Interactive dashboard navigation interface.
 
-## 📊 Executive Dashboard
+##  Executive Dashboard
 Business KPI and profitability overview.
 
-## 🌍 Regional Dashboard
+##  Regional Dashboard
 Regional sales and geographic analysis.
 
-## 💰 Sales Dashboard
+##  Sales Dashboard
 Financial and trend-based analysis.
 
 ---
 
-# 🔖 GitHub Tags
+#  GitHub Tags
 
 txt
 powerbi
@@ -516,7 +514,7 @@ snowflake-schema
 
 ---
 
-# 👨‍💻 Developed By
+#  Developed By
 
 *Ismam Tasnime*
 
