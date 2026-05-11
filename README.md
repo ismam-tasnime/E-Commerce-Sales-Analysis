@@ -163,7 +163,8 @@ These calculations help analyze how business performance changes over time.
 #  Dashboard Pages & Analysis
 
 The dashboard contains multiple analytical pages with interactive navigation and filtering capabilities.
-
+each page contain two buttons one is a navigation button which allow us directly go to homepage another
+is a default button which clear out all the filters of that page.
 ---
 
 #  Homepage
