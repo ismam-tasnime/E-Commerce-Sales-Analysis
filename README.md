@@ -165,9 +165,9 @@ These calculations help analyze how business performance changes over time.
 The dashboard contains multiple analytical pages with interactive navigation and filtering capabilities.
 
 ---
-![pbi1](images/pbi1.jpg)
-#  Homepage
 
+#  Homepage
+![pbi1](images/pbi1.jpg)
 The homepage acts as the main navigation interface for the entire dashboard.
 
 ## Features Included
@@ -184,10 +184,10 @@ The homepage acts as the main navigation interface for the entire dashboard.
 - Sales Dashboard
 
 ---
-![pbi2](images/pbi2.jpg)
+
 
 #  Executive Dashboard Analysis
-
+![pbi2](images/pbi2.jpg)
 The Executive Dashboard provides a high-level overview of business performance and operational KPIs.
 
 ---
@@ -263,9 +263,9 @@ Dynamic date filtering was implemented to allow flexible analysis across differe
 Users can interactively explore business performance over custom date ranges.
 
 ---
-![pbi3](images/pbi3.jpg)
-#  Regional Order Dashboard
 
+#  Regional Order Dashboard
+![pbi3](images/pbi3.jpg)
 The Regional Order Dashboard focuses on geographic and regional sales analysis.
 
 This page helps analyze where orders and revenue are generated globally.
@@ -331,9 +331,9 @@ Interactive continent-level filtering was implemented.
 This enables region-specific analysis.
 
 ---
-![pbi4](images/pbi4.jpg)
-#  Sales Dashboard Analysis
 
+#  Sales Dashboard Analysis
+![pbi4](images/pbi4.jpg)
 The Sales Dashboard focuses on detailed financial and profitability analysis.
 
 This page helps evaluate operational efficiency and revenue trends.
