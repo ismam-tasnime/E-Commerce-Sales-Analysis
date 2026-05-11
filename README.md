@@ -397,7 +397,492 @@ Users can dynamically filter dashboard visuals by:
 - Product Sub-Categories
 
 This improves drill-down analysis capabilities.
+Sales & Business Insights Analysis
 
+Overview
+
+This dashboard analysis evaluates product category performance based on:
+
+* Revenue
+* Profit
+* Profit Margin
+* Returned Revenue
+* Monthly Revenue Trend
+
+The goal is to identify:
+
+* High-performing categories
+* Low-performing categories
+* Operational risks
+* Growth opportunities
+* Strategic business solutions
+
+⸻
+
+Executive Business Insights & Strategic Recommendations
+
+1. Accessories Category
+
+Business Condition
+
+* Moderate revenue generation
+* Stable but average profit margin
+* Consistent monthly demand
+* Returns are manageable
+
+Business Insight
+
+Accessories are functioning as a stable support category rather than a growth driver. The category contributes steady sales but lacks aggressive profitability growth.
+
+Business Resolution
+
+* Introduce bundled offers with higher-ticket items
+* Use impulse marketing strategies
+* Increase average order value through upselling
+* Launch seasonal accessory campaigns
+
+Strategic Recommendation
+
+Focus on:
+
+* Cross-selling
+* Low-cost digital ads
+* Product bundles
+
+⸻
+
+2. Appliances Category
+
+Business Condition
+
+* Strong revenue performance
+* Good overall profitability
+* Higher operational cost observed
+* Revenue trend shows strong market demand
+
+Business Insight
+
+Appliances are one of the primary revenue-generating categories. However, operational expenses and return-related costs may reduce long-term profitability.
+
+Business Resolution
+
+* Optimize supplier negotiation
+* Reduce logistics cost
+* Improve product quality control
+* Enhance customer support to reduce returns
+
+Strategic Recommendation
+
+Scale this category aggressively while improving operational efficiency.
+
+⸻
+
+3. Art Category
+
+Business Condition
+
+* Low revenue contribution
+* Weak profitability
+* Lower demand consistency
+
+Business Insight
+
+Art products appear to have limited market demand and weaker conversion performance compared to other categories.
+
+Business Resolution
+
+* Reposition products for premium audiences
+* Use social media storytelling marketing
+* Reduce slow-moving inventory
+* Focus on niche customer targeting
+
+Strategic Recommendation
+
+Maintain limited inventory and operate through targeted campaigns instead of mass marketing.
+
+⸻
+
+4. Binders Category
+
+Business Condition
+
+* Extremely low revenue
+* Low profit contribution
+* Weak market growth trend
+
+Business Insight
+
+Binders show signs of underperformance and inefficient inventory utilization.
+
+Business Resolution
+
+* Reduce stock quantity
+* Bundle with office supplies
+* Offer bulk corporate discounts
+* Improve B2B targeting
+
+Strategic Recommendation
+
+Avoid overinvestment. Position as a complementary product category.
+
+⸻
+
+5. Bookcases Category
+
+Business Condition
+
+* High revenue generation
+* Strong market demand
+* Moderate profit margin
+* Operational cost remains high
+
+Business Insight
+
+Bookcases demonstrate healthy customer demand and strong sales consistency but profitability can still improve.
+
+Business Resolution
+
+* Optimize shipping & packaging
+* Improve warehouse efficiency
+* Introduce premium variants
+* Focus on high-margin designs
+
+Strategic Recommendation
+
+Expand premium product lines to improve margins.
+
+⸻
+
+6. Chairs Category
+
+Business Condition
+
+* One of the strongest revenue categories
+* Good sales consistency
+* Profit fluctuations observed
+
+Business Insight
+
+Chairs are a core business category with strong customer demand but inconsistent profitability due to pricing or operational inefficiencies.
+
+Business Resolution
+
+* Dynamic pricing strategy
+* Supplier cost optimization
+* Reduce return rates through quality assurance
+* Promote ergonomic premium products
+
+Strategic Recommendation
+
+Scale aggressively while monitoring profit stability.
+
+⸻
+
+7. Copiers Category
+
+Business Condition
+
+* Very high profit margin
+* Strong profitability despite smaller sales volume
+
+Business Insight
+
+Copiers appear to be a high-margin premium category generating strong returns.
+
+Business Resolution
+
+* Increase premium customer targeting
+* Expand B2B marketing
+* Offer maintenance/service packages
+* Prioritize repeat corporate clients
+
+Strategic Recommendation
+
+Treat Copiers as a strategic high-profit category.
+
+⸻
+
+8. Envelopes Category
+
+Business Condition
+
+* Low revenue contribution
+* Stable but limited profitability
+
+Business Insight
+
+Envelopes serve mainly as a supporting office supply product.
+
+Business Resolution
+
+* Bundle with stationery products
+* Promote bulk business orders
+* Reduce unnecessary inventory holding
+
+Strategic Recommendation
+
+Maintain as a complementary category only.
+
+⸻
+
+9. Fasteners Category
+
+Business Condition
+
+* Low revenue and low profitability
+* Weak overall business impact
+
+Business Insight
+
+Fasteners contribute minimally to total business growth.
+
+Business Resolution
+
+* Improve pricing strategy
+* Bundle with related products
+* Reduce warehousing cost
+
+Strategic Recommendation
+
+Keep minimal operational focus.
+
+⸻
+
+10. Furnishings Category
+
+Business Condition
+
+* Moderate revenue
+* Lower-than-expected profit margin
+
+Business Insight
+
+Furnishings show customer demand but margin pressure indicates pricing or cost inefficiency.
+
+Business Resolution
+
+* Increase premium product offerings
+* Reduce supplier dependency
+* Improve inventory turnover
+* Strengthen brand positioning
+
+Strategic Recommendation
+
+Improve brand differentiation to increase perceived value.
+
+⸻
+
+11. Labels Category
+
+Business Condition
+
+* Small revenue share
+* Consistent but low profitability
+
+Business Insight
+
+Labels act as a low-risk, low-growth category.
+
+Business Resolution
+
+* Focus on corporate clients
+* Sell in bulk
+* Introduce subscription restocking models
+
+Strategic Recommendation
+
+Use for customer retention rather than growth.
+
+⸻
+
+12. Machines Category
+
+Business Condition
+
+* High revenue contribution
+* Profit instability observed
+
+Business Insight
+
+Machines generate significant sales volume but profitability risk suggests high operational or return costs.
+
+Business Resolution
+
+* Strengthen after-sales support
+* Improve warranty management
+* Reduce defective product rates
+* Enhance supplier quality checks
+
+Strategic Recommendation
+
+Critical category requiring operational optimization.
+
+⸻
+
+13. Paper Category
+
+Business Condition
+
+* Highest observed profit margin (~36%)
+* Stable operational performance
+
+Business Insight
+
+Paper is one of the most profitable and operationally efficient categories.
+
+Business Resolution
+
+* Expand bulk sales strategy
+* Focus on B2B institutional customers
+* Increase recurring purchase contracts
+
+Strategic Recommendation
+
+Prioritize scaling due to high profitability.
+
+⸻
+
+14. Phones Category
+
+Business Condition
+
+* Strong revenue generation
+* Competitive but volatile market trend
+
+Business Insight
+
+Phones drive major sales volume but may face pricing pressure and competitive margin reduction.
+
+Business Resolution
+
+* Improve promotional campaigns
+* Offer financing/installment options
+* Increase accessory bundling
+* Strengthen customer loyalty programs
+
+Strategic Recommendation
+
+Aggressively scale while protecting margins.
+
+⸻
+
+15. Storage Category
+
+Business Condition
+
+* Moderate-to-good revenue
+* Healthy profit consistency
+
+Business Insight
+
+Storage products show reliable customer demand and stable operational performance.
+
+Business Resolution
+
+* Expand product variety
+* Improve warehouse bundling strategies
+* Focus on home-office market trends
+
+Strategic Recommendation
+
+Safe growth category with long-term potential.
+
+⸻
+
+16. Supplies Category
+
+Business Condition
+
+* Lower revenue performance
+* Stable but weak growth trend
+
+Business Insight
+
+Supplies serve mainly as recurring operational products rather than high-growth assets.
+
+Business Resolution
+
+* Introduce subscription purchasing
+* Target office/corporate buyers
+* Bundle with stationery categories
+
+Strategic Recommendation
+
+Optimize for recurring revenue.
+
+⸻
+
+17. Tables Category
+
+Business Condition
+
+* Lower profit margin despite reasonable demand
+* Operational cost impact visible
+
+Business Insight
+
+Tables generate customer interest but profitability is weakened by cost structure and return issues.
+
+Business Resolution
+
+* Improve packaging efficiency
+* Reduce transportation damage
+* Optimize pricing structure
+* Introduce premium customizable models
+
+Strategic Recommendation
+
+Improve operational efficiency before scaling further.
+
+⸻
+
+Overall Business Findings
+
+High Potential Categories
+
+* Appliances
+* Chairs
+* Phones
+* Machines
+* Paper
+* Copiers
+
+Stable Supporting Categories
+
+* Accessories
+* Storage
+* Furnishings
+
+Weak / Low Growth Categories
+
+* Fasteners
+* Envelopes
+* Labels
+* Binders
+
+⸻
+
+Final Strategic Business Recommendations
+
+Short-Term Actions
+
+* Reduce operational costs
+* Improve inventory management
+* Optimize low-performing categories
+* Minimize product returns
+
+Mid-Term Actions
+
+* Increase B2B partnerships
+* Launch bundled product campaigns
+* Improve customer retention strategy
+
+Long-Term Actions
+
+* Focus on high-margin categories
+* Use predictive sales analytics
+* Expand premium product segments
+* Build stronger supply chain efficiency
 ---
 
 #  Interactive Features Implemented
